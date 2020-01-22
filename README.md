@@ -7,5 +7,6 @@ every time that game starts a random number would be selected from 1 to 36 and e
 * select a single number
 * select a range of numbers
 * select whether the number would be odd or even 
+
 Obviously there is an inverse relationship between the probability of winning and the percentage of profit or loss.
 
